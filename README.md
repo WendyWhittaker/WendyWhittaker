@@ -1,4 +1,4 @@
-# Hey, I'm Wendy! 
+# <img src="./BackgroundWendy.png">
 
 ## I'm a UX designer by trade
 I've been interested in development since high school and I'm mainly here to follow some cool people I know on their development journey. 
